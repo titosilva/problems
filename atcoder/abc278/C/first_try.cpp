@@ -7,6 +7,9 @@ typedef long long ll;
 // It did work for samples and initial small cases
 // but received RE for other cases
 
+// Tips: do not use unordered_set in competitive programming
+// because it does not allow binary search
+
 int main() {
     int n, q;
     cin >> n >> q;
